@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should redner Expense Summary with 1 expense coorectly 1`] = `
+<div>
+  <h2>
+    Viewing 
+    1
+     
+    expense
+     with totalling of 
+    $1.00
+  </h2>
+</div>
+`;
+
+exports[`should redner Expense Summary with more expenses coorectly 1`] = `
+<div>
+  <h2>
+    Viewing 
+    5
+     
+    expenses
+     with totalling of 
+    $1.00
+  </h2>
+</div>
+`;
