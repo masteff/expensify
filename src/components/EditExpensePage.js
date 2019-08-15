@@ -14,6 +14,7 @@ export class EditExpensePage extends React.Component{
     }
     render(){
         return (
+            
             <div>
                 <ExpenseForm
                 expense={this.props.expense}
